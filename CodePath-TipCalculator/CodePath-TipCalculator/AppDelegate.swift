@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TipCalculator
+//  CodePath-TipCalculator
 //
-//  Created by Jane on 12/9/16.
+//  Created by Jane on 12/12/16.
 //  Copyright © 2016 Jane. All rights reserved.
 //
 

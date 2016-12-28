@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TipCalculator.xcscheme</key>
+		<key>CodePath-TipCalculator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6683F7D21DFB620400340C9E</key>
+		<key>6667AEC71DFEAA09007CC033</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6683F7E61DFB620400340C9E</key>
+		<key>6667AEDB1DFEAA09007CC033</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6683F7F11DFB620400340C9E</key>
+		<key>6667AEE61DFEAA09007CC033</key>
 		<dict>
 			<key>primary</key>
 			<true/>

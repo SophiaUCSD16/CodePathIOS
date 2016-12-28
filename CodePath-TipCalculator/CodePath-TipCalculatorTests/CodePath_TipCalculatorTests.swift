@@ -1,15 +1,15 @@
 //
-//  TipCalculatorTests.swift
-//  TipCalculatorTests
+//  CodePath_TipCalculatorTests.swift
+//  CodePath-TipCalculatorTests
 //
-//  Created by Jane on 12/9/16.
+//  Created by Jane on 12/12/16.
 //  Copyright © 2016 Jane. All rights reserved.
 //
 
 import XCTest
-@testable import TipCalculator
+@testable import CodePath_TipCalculator
 
-class TipCalculatorTests: XCTestCase {
+class CodePath_TipCalculatorTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
